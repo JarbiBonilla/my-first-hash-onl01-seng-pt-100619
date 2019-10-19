@@ -1,7 +1,7 @@
 def my_hash
   your_hash = { 
-    "Seven Deadly" => "Meliodas"
-    "Hunter x Hunter" => "Killua"
+    "Seven Deadly" => "Meliodas",
+    "Hunter x Hunter" => "Killua",
     "My Hero Acadamia" => "Deku"
   }
   your_hash
