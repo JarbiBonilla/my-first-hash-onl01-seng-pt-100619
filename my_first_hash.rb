@@ -3,7 +3,7 @@ def my_hash
     "Seven Deadly" => "Meliodas"
     "Hunter x Hunter" => "Killua"
     "My Hero Acadamia" => "Deku"
-
+  }
 end
 
 
